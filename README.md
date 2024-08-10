@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eo Soo Kim</h1>
 <h3 align="center">A passionate frontend developer from Canada</h3>
 
-- 🔭 I’m currently working on [Cilesia](https://github.com/eosook/cilesia-sam)
+- 🔭 I’m currently working on [Cilesia](https://github.com/eosook/cilesia-sam), [Invoice Tracker](https://github.com/eosook/invoice-tracker)
 
 - 🌱 I’m currently learning **Typescript, React Native**
 
