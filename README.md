@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Cilesia](https://github.com/eosook/cilesia-sam), [Invoice Tracker](https://github.com/eosook/invoice-tracker)
 
-- 🌱 I’m currently learning **Typescript, React Native**
+- 🌱 I’m currently learning **Typescript, AWS**
 
 - 📫 How to reach me **eosookim@gmail.com**
 
